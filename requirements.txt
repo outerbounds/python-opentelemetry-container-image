@@ -1,0 +1,12 @@
+opentelemetry-api==1.7.1
+opentelemetry-exporter-otlp==1.7.1
+opentelemetry-exporter-otlp-proto-grpc==1.7.1
+opentelemetry-exporter-otlp-proto-http==1.7.1
+opentelemetry-instrumentation==0.26b1
+opentelemetry-instrumentation-boto==0.26b1
+opentelemetry-instrumentation-botocore==0.26b1
+opentelemetry-instrumentation-requests==0.26b1
+opentelemetry-proto==1.7.1
+opentelemetry-sdk==1.7.1
+opentelemetry-semantic-conventions==0.26b1
+opentelemetry-util-http==0.26b1
